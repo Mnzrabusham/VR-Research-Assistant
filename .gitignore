@@ -1,0 +1,19 @@
+# Environment
+venv/
+env/
+.env
+
+# API Keys
+*.env
+config.py
+
+# Generated files
+chroma_db/
+__pycache__/
+*.pyc
+
+# Data (don't commit PDFs - too large)
+papers/*.pdf
+
+# OS files
+.DS_Store
