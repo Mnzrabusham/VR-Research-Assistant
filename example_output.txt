@@ -1,0 +1,10 @@
+Question: What is world-space cueing in VR?
+
+Answer: World-space cueing is a subtle gaze direction technique that uses 
+geometric modulation of the virtual environment to guide user attention. It 
+manipulates spatial properties of objects in the scene to draw the user's 
+gaze toward targets of interest while maintaining immersion.
+
+Sources: 1 documents
+- Ali, M., et al. (2025). World-Space Cueing...
+
