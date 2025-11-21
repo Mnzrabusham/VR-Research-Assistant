@@ -25,16 +25,16 @@ export OPENAI_API_KEY="your-key-here"
 
 3. Run the assistant:
 
-# Generate training data
+## Generate training data
 python generate_training_data.py
 
-# Fine-tune the model
+## Fine-tune the model
 python finetune_openai.py
 
-# Test fine-tuned model
+## Test fine-tuned model
 python test_finetuned.py
 
-# Run RAG with fine-tuning
+## Run RAG with fine-tuning
 python vr_rag_finetuned.py
 
 ## Usage
